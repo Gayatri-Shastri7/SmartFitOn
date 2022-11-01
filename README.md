@@ -30,21 +30,21 @@ These are classified as regular physical movements and form our class of activit
 Physical Activity Through the Life Course
 In the U.S., the Department of Health and Human Services provides specific guidelines for physical activity for different life stages and conditions:
 
-## Children ages 3 through 5
+## 4.1 Children ages 3 through 5
 <h3>Try to be physically active throughout the day. Adult caregivers should encourage children this age to engage in active playing for at least 3 hours daily.
 Children and adolescents ages 6 through 17. At least 1 hour daily of moderate-to-vigorous activity with both aerobic and strength movements.</h3>
 
-## Adults
+## 4.2 Adults
 <h3>Move more frequently throughout the day and sit less. Engage in at least 150 to 300 minutes weekly (spaced throughout the week) of moderate-intensity aerobic exercise and at least 2 days weekly of muscle-strengthening exercises. Greater health benefits may be seen with more than 300 minutes weekly of exercise.</h3>
 
-## Older adults
+## 4.3 Older adults
 <h3>Follow similar activity guidelines as those for adults but also include a focus on balance training. Although discussing the start of a new exercise regimen with one’s doctor is a good practice for all ages, it is especially important with this age group because of the higher likelihood of having health conditions or physical limitations that may require modified exercises.</h3>
 
-## Women who are pregnant or postpartum.
+## 4.4 Women who are pregnant or postpartum.
 
 <h3>Aim for 150 minutes weekly (spaced throughout the week) of moderate-intensity aerobic exercise. If vigorous exercise was performed regularly prior to pregnancy, one may continue this throughout pregnancy after discussing with their doctor.</h3>
 
-## Adults with physical disabilities and chronic conditions. 
+## 4.5 Adults with physical disabilities and chronic conditions. 
 
 <h3>Follow similar activity guidelines as those for adults if able to exercise, but discuss with one’s doctor about the types and amounts of activity that would be appropriate for specific conditions. Any exercises within one’s ability is encouraged, to avoid being completely sedentary.</h3>
 
