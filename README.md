@@ -25,30 +25,31 @@ These are classified as regular physical movements and form our class of activit
 
 ## 4. RESEARCH 
 
-<h3>Although many people view exercise as a way to lose weight, it plays a key role in the wellbeing of the body beyond weight loss. Research strongly supports its benefits across a range of physical and mental health conditions for people of all ages. However, busy lifestyles and an environment that encourages being sedentary for many hours of the day (driving door-to-door, sitting at an office desk, relaxing for the evening in front of a television) have led to exercise ranking low as a priority for many people.
+<h4>Although many people view exercise as a way to lose weight, it plays a key role in the wellbeing of the body beyond weight loss. Research strongly supports its benefits across a range of physical and mental health conditions for people of all ages. However, busy lifestyles and an environment that encourages being sedentary for many hours of the day (driving door-to-door, sitting at an office desk, relaxing for the evening in front of a television) have led to exercise ranking low as a priority for many people.
 
 Physical Activity Through the Life Course
 In the U.S., the Department of Health and Human Services provides specific guidelines for physical activity for different life stages and conditions:
+ </h4>
 
-## 4.1 Children ages 3 through 5
-<h3>Try to be physically active throughout the day. Adult caregivers should encourage children this age to engage in active playing for at least 3 hours daily.
-Children and adolescents ages 6 through 17. At least 1 hour daily of moderate-to-vigorous activity with both aerobic and strength movements.</h3>
+### 4.1 Children ages 3 through 5
+<h4>Try to be physically active throughout the day. Adult caregivers should encourage children this age to engage in active playing for at least 3 hours daily.
+Children and adolescents ages 6 through 17. At least 1 hour daily of moderate-to-vigorous activity with both aerobic and strength movements.</h4>
 
-## 4.2 Adults
-<h3>Move more frequently throughout the day and sit less. Engage in at least 150 to 300 minutes weekly (spaced throughout the week) of moderate-intensity aerobic exercise and at least 2 days weekly of muscle-strengthening exercises. Greater health benefits may be seen with more than 300 minutes weekly of exercise.</h3>
+### 4.2 Adults
+<h4>Move more frequently throughout the day and sit less. Engage in at least 150 to 300 minutes weekly (spaced throughout the week) of moderate-intensity aerobic exercise and at least 2 days weekly of muscle-strengthening exercises. Greater health benefits may be seen with more than 300 minutes weekly of exercise.</h4>
 
-## 4.3 Older adults
-<h3>Follow similar activity guidelines as those for adults but also include a focus on balance training. Although discussing the start of a new exercise regimen with one’s doctor is a good practice for all ages, it is especially important with this age group because of the higher likelihood of having health conditions or physical limitations that may require modified exercises.</h3>
+### 4.3 Older adults
+<h4>Follow similar activity guidelines as those for adults but also include a focus on balance training. Although discussing the start of a new exercise regimen with one’s doctor is a good practice for all ages, it is especially important with this age group because of the higher likelihood of having health conditions or physical limitations that may require modified exercises.</h4>
 
-## 4.4 Women who are pregnant or postpartum.
+### 4.4 Women who are pregnant or postpartum.
 
-<h3>Aim for 150 minutes weekly (spaced throughout the week) of moderate-intensity aerobic exercise. If vigorous exercise was performed regularly prior to pregnancy, one may continue this throughout pregnancy after discussing with their doctor.</h3>
+<h4>Aim for 150 minutes weekly (spaced throughout the week) of moderate-intensity aerobic exercise. If vigorous exercise was performed regularly prior to pregnancy, one may continue this throughout pregnancy after discussing with their doctor.</h4>
 
-## 4.5 Adults with physical disabilities and chronic conditions. 
+### 4.5 Adults with physical disabilities and chronic conditions. 
 
-<h3>Follow similar activity guidelines as those for adults if able to exercise, but discuss with one’s doctor about the types and amounts of activity that would be appropriate for specific conditions. Any exercises within one’s ability is encouraged, to avoid being completely sedentary.</h3>
+<h4>Follow similar activity guidelines as those for adults if able to exercise, but discuss with one’s doctor about the types and amounts of activity that would be appropriate for specific conditions. Any exercises within one’s ability is encouraged, to avoid being completely sedentary.</h3>
 
-</h3>
+</h4>
 
 ## 5. WHAT DID WE USE?
 <H3>
