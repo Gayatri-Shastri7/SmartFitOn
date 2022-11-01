@@ -25,7 +25,7 @@ These are classified as regular physical movements and form our class of activit
 <h3>Although many people view exercise as a way to lose weight, it plays a key role in the wellbeing of the body beyond weight loss. Research strongly supports its benefits across a range of physical and mental health conditions for people of all ages. However, busy lifestyles and an environment that encourages being sedentary for many hours of the day (driving door-to-door, sitting at an office desk, relaxing for the evening in front of a television) have led to exercise ranking low as a priority for many people.
 
 Physical Activity Through the Life Course
-In the U.S., the Department of Health and Human Services provides specific guidelines for physical activity for different life stages and conditions: [2]
+In the U.S., the Department of Health and Human Services provides specific guidelines for physical activity for different life stages and conditions:
 
 ## Children ages 3 through 5
 <h3>Try to be physically active throughout the day. Adult caregivers should encourage children this age to engage in active playing for at least 3 hours daily.
