@@ -1,5 +1,8 @@
 # SmartFitOn
 
+
+![SmartFitOn](https://user-images.githubusercontent.com/66173499/199270974-e86d5e7b-b483-4ca1-99ab-5134e29d6964.JPG)
+
 ## 1. PROBLEM STATEMENT
 
 <h3>Recognizing human activities and monitoring population behavior are fundamental needs of our society. Population security, crowd surveillance, healthcare support, living assistance, lifestyle and behavior tracking are some of the main applications that require the recognition of human activities.But, if one’s health deteriorate due to unhealthy lifestyle, clinical tests and diagnosis are time-consuming. Keeping track of all the human activities is not possible always and is mundane prone!
